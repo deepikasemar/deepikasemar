@@ -1,5 +1,154 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4F46E5,100:7C3AED&height=220&section=header&text=Deepika%20Semar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Python%20%7C%20Machine%20Learning&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+
+<a href="https://github.com/deepikasemar">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Data+Scientist;Python+Developer;Machine+Learning+Engineer;Turning+Data+into+Decisions" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Degree](https://img.shields.io/badge/B.Tech-Computer_Science-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white)
+![University](https://img.shields.io/badge/Sardar_Beant_Singh_State_University-7C3AED?style=for-the-badge&logo=academia&logoColor=white)
+![Location](https://img.shields.io/badge/Gurdaspur,_Punjab,_India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepikaasemar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepikasemar)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=deepikasemar&label=Profile%20Views&color=7C3AED&style=flat-square)
+[![Followers](https://img.shields.io/github/followers/deepikasemar?label=Followers&style=flat-square&color=4F46E5&labelColor=0D1117)](https://github.com/deepikasemar?tab=followers)
+[![Stars](https://img.shields.io/github/stars/deepikasemar?label=Stars&style=flat-square&color=8B5CF6&labelColor=0D1117)](https://github.com/deepikasemar?tab=repositories)
+
+</div>
+
+---
+
+## About
+
+I am a data scientist and engineer with a B.Tech in Computer Science from Sardar Beant Singh State University, Gurdaspur. I work in Python to clean and analyse data, build machine learning models, and communicate results through clear visualisations.
+
+- Data analysis and manipulation with Pandas and NumPy
+- Machine learning with Scikit-learn
+- Data visualisation with Matplotlib
+- Clean, reproducible and well-documented code
+
+**Open To**
+
+- Data Scientist, Data Analyst and Machine Learning roles
+- Internships and collaborative projects
+- Open source contributions
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn,matplotlib,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+## Data Science Expertise
+
+<div align="center">
+
+| Domain | Tools | Details |
+|:--|:--|:--|
+| Data Analysis | `Pandas` `NumPy` | Cleaning, transformation, aggregation and exploratory analysis |
+| Machine Learning | `Scikit-learn` | Model training, evaluation, tuning and pipelines |
+| Data Visualisation | `Matplotlib` | Charts and plots that explain patterns and results |
+| Programming | `Python` | Scripts, notebooks and reusable analysis code |
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=deepikasemar&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepikasemar&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=deepikasemar&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=8B5CF6&currStreakLabel=C9D1D9" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=deepikasemar&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepikasemar&bg_color=0D1117&color=8B5CF6&line=7C3AED&point=C4B5FD&area=true&area_color=4F46E5&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/deepikasemar/deepikasemar/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+Learning:
+  - Advanced machine learning and model evaluation
+Building:
+  - Data science projects in Python
+Exploring:
+  - Feature engineering, data storytelling
+Open To:
+  - Data Science and Machine Learning roles
+  - Open source collaboration
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepikaasemar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepikasemar)
+
+</div>
+
+---
+
+<div align="center">
+
+*"In data we trust, in insight we build."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:0D1117&height=140&section=footer" width="100%" />
+
+</div><div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4F46E5,100:7C3AED&height=220&section=header&text=Deepika%20Semar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/deepikasemar">
